@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/07/16/38/75/240_F_716387572_C30OIhFQPaPgfcwg2e0C9oTgl81kBFzr.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+ 
+}
+.loge{
+    border: 2px solid black;
+    height: 290px;
+    width:350px ;
+    backdrop-filter: blur(10px);
+    justify-content: space-around;
+    text-align: center;
+
+    border-radius: 20%;
+}
+input:hover{
+    background-color: green;
+}
